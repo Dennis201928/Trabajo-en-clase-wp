@@ -72,7 +72,7 @@ mi carrera universitaria y, así, poder desempeñar todo lo que he aprendido
 
 <dir>
 <p class="text-black-600 ... ">
-♦Mi juego favorito por el momento es valortant ya que soy muy "bueno" jugando .
+♦Mi juego favorito por el momento es valortant ya que soy muy "bueno" jugando.
  </p>
  </dir>
 
