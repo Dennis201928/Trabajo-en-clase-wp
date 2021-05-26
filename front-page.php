@@ -14,12 +14,12 @@
 <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
   <div class="md:flex">
     <div class="md:flex-shrink-0">
-      <img class="h-48 w-full object-cover md:h-full md:w-48" src=" <?php echo get_template_directory_uri(  )?> /assets/img/mio.png"  alt="Man looking at item at a store">
+      <img class="h-48 w-full object-cover md:h-full md:w-48" src=" <?php echo get_template_directory_uri(  )?> /assets/img/111.png"  alt="Man looking at item at a store">
     </div>
     <div class="p-8">
       <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">My life</div>
       <a href="https://www.instagram.com/dviddennis/" class="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Mas sobre mi </a>
-      <p class="mt-2 text-gray-500">Quieres saber mas sobre mi dale al link :)</p>
+      <p class="mt-2 text-gray-500">Quieres saber mas sobre mi dale al link giño giño ...  :)</p>
     </div>
   </div>
 </div>
@@ -27,7 +27,7 @@
 
 <dir>
 <p style="color:#0800FC;">♦Mi nombre es Dennis Quiguire como vemos esta es mi primera pagina en wordpres lo cual me parece algo complicado pero 
-        a la ves me parece muy divertido de realizar otra cosas mas que me gusta ahcer el jugar baloncesto ya que es mi deporte favorito es el valoncesto
+        a la ves me parece muy divertido de realizar otra cosas mas que me gusta hacer el jugar baloncesto ya que es mi deporte favorito es el valoncesto
  </p>
 </dir>
 
@@ -114,5 +114,4 @@ mi carrera universitaria y, así, poder desempeñar todo lo que he aprendido
             >
         </div>
  
-
 <?php get_footer(); ?>
